@@ -1,0 +1,5 @@
+Fonts bundled in this folder (self-hosted via Fontsource, latin subset):
+- Inter (400, 500, 600)         - SIL Open Font License 1.1
+- Instrument Serif (400 italic) - SIL Open Font License 1.1
+- JetBrains Mono (400)          - SIL Open Font License 1.1
+Full license text: https://openfontlicense.org/open-font-license-official-text/
